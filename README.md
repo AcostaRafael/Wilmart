@@ -1,2 +1,2 @@
-# Wilmart
-Shopping list
+# shoppingList
+simple shoppinglist with plain javascript
